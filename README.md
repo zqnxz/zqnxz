@@ -8,4 +8,8 @@
 <p align="left"> 
 </p>
 
+**Discord:**
+
+[![Discord Presence](https://lanyard.cnrad.dev/api/897186800156672081)](https://discord.com/users/897186800156672081)
+
 
