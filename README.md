@@ -1,4 +1,6 @@
 # 💫 About Me:
+I'm a self-taught passionate fullstack developer from germany
+
 🦔 Founder of Rival Studios.<br>👨‍💻 Working as freelancer<br>⚙️ I use daily: ``.ts``, ``.tsx``, ``.js``, ``.lua``<br>💬 Ask me about **Web Development**
 
 
