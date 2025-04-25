@@ -1,6 +1,6 @@
 # Hey, I'm qnx <img src="https://cdn.discordapp.com/emojis/1355316308027380005.webp?size=96&animated=true" width="35"/>
 
-Founder of **LuaSec** – the market leader in FiveM Auths (also known as IPLocks).  
+Founder of **LuaSec** [**Join here**](https://discord.gg/luasec) – the market leader in FiveM Auths (also known as IPLocks).  
 I'm a self-taught passionate fullstack developer from germany.
 
 ---
@@ -24,17 +24,3 @@ I'm a self-taught passionate fullstack developer from germany.
 ![Docker](https://img.shields.io/badge/docker-%230db7ed.svg?style=for-the-badge&logo=docker&logoColor=white)
 ![Figma](https://img.shields.io/badge/figma-%23F24E1E.svg?style=for-the-badge&logo=figma&logoColor=white)
 ![Postman](https://img.shields.io/badge/Postman-FF6C37?style=for-the-badge&logo=postman&logoColor=white)
-
----
-
-## 📂 Projects I've worked on
-
-Projects I've been the owner of – some are now inactive:
-
-- **SVScripts** – FiveM Scripts  
-- **ACNScripts** – FiveM Scripts  
-- **QNX-Development** – FiveM Scripts  
-- **Envy Service** – FiveM Scripts  
-- **Rival Studios** – FiveM Scripts  
-- **license.qnx.wtf** – Open Source IPLock system for FiveM  
-- **LuaSec** – Market leader in FiveM auths [**Join here**](https://discord.gg/luasec)
